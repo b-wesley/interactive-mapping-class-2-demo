@@ -1,5 +1,3 @@
-const creatures_seen = 0;
-
 function show_me_squids() {
   document.body.style.backgroundImage = "url('https://static.tvtropes.org/pmwiki/pub/images/the_two_faces_of_squidward.png')";
 }
